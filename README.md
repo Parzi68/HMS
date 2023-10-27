@@ -38,12 +38,4 @@ Society Management System is the website portal designed to reduce conflicts amo
 #### Staff Page
 ![](images/StaffPage.png)
 
-<!-- CONTRIBUTING -->
-## Contributions
-- Bhavesh Ghanchi - <a>https://github.com/bhaveshGhanchi</a>
-- Soham Dubewar- <a>https://github.com/sohamdubewar</a>
-- Ashwin Nair - <a>https://github.com/DarkLord125</a>
 
-
-
-Project Link: <a>https://github.com/DarkLord125/SocietyManagementSystem</a>
